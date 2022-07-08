@@ -21,4 +21,4 @@
 </div>
 
 
-![Snake animation] (https://github.com/Isadora-Souza/Isadora-Souza/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Isadora-Souza/Isadora-Souza/blob/output/github-contribution-grid-snake.svg)
