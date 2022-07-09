@@ -1,6 +1,6 @@
-<div align="center" valign="top">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#431C36&height=180&section=header&text= Oii, me chamo Isa, e sou estudante de Tecnologia !!👋&fontSize=&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-## Oii, me chamo Isa, e sou estudante de Tecnologia !!👋
+<div align="center" valign="top">
 
 </div>
 
