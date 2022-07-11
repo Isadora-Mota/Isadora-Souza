@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/isadora-mota-de-souza-42779522b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=Isadora-Souza&theme=dracula&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=isadora-souza&theme=dracula&hide_border=true&area=true)
 
 
 <div align="center">
